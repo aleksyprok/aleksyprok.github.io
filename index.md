@@ -44,13 +44,14 @@ My research interests include:
 If you have any questions or suggestions, please feel free to email me at <aleksyprok@gmail.com>.
 Here are links to my [LinkedIn](https://www.linkedin.com/in/alex-prokopyszyn-phd-25a450b3/), [Stack Exchange](https://stackexchange.com/users/12604491/peanutlex), [GitHub](https://github.com/aleksyprok) and [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&user=KfrF2q8AAAAJ) accounts.
 
-## Publications <a name="publications"></a>
+## Publications (as first author) <a name="publications"></a>
 
 ### Papers
 
-* [Prokopyszyn, A. P. K., A. W. Hood, A. N. Wright. Line-tied boundary conditions can cause resonant absorption models to generate unphysically large boundary layers.](https://iopscience.iop.org/article/10.3847/1538-4357/abf65b/meta?casa_token=_4BCewf5CQcAAAAA:h8xBBHoKk4wtOe4haXsiibzIgZ6XPQXBeLEBL45yuK49vxwYGjlKguG5QR2pQfuasZf_x2UdQZeO-g) 
-* [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). Investigating the damping rate of phase-mixed Alfvén waves. Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
-* [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). Phase mixing of nonlinear Alfvén waves. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
+* [Prokopyszyn, A. P. K., K. G. McClements, H. J. C. Oliver, M. Fitzgerald, D. A. Ryan, and G. Xia (2025, July). _Confinement of fusion alpha-particles and Alfvén eigenmode stability in STEP._ Nuclear Fusion 65, 086039.](https://iopscience.iop.org/article/10.1088/1741-4326/adf120/meta)
+* [Prokopyszyn, A. P. K., A. N. Wright, and A. W. Hood (2021, June). _Line-tied boundary conditions can cause resonant absorption models to generate unphysically large boundary layers._ The Astrophysical Journal 914, 15.](https://doi.org/10.3847/1538-4357/abf65b)
+* [Prokopyszyn, A. P. K. and A. W. Hood (2019, December). _Investigating the damping rate of phase-mixed Alfvén waves._ Astronomy & Astrophysics 632, A93.](https://www.aanda.org/articles/aa/abs/2019/12/aa36658-19/aa36658-19.html)
+* [Prokopyszyn, A. P. K., A. W. Hood, and I. De Moortel (2019, April). _Phase mixing of nonlinear Alfvén waves_. Astronomy & Astrophysics 624, A90.](https://www.aanda.org/articles/aa/abs/2019/04/aa34939-18/aa34939-18.html)
 
 ### Thesis
 
