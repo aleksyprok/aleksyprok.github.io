@@ -11,7 +11,7 @@ title: Home
 6. [Teaching](#teaching)
 7. [Education](#education)
 
-**Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for the the [UK Atomic Energy Authority](https://www.gov.uk/government/organisations/uk-atomic-energy-authority) at the [Culham Centre for Fusion Energy](https://ccfe.ukaea.uk/) in Oxfordshire. I am currently helping to design a fusion reactor called the [Spherical Tokamak for Energy Production](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.) which is a UK based nuclear fusion power plant which we aim to build by 2040.
+**Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for [Tokamak Energy]([https://www.gov.uk/government/organisations/uk-atomic-energy-authority](https://tokamakenergy.com/)) in Oxfordshire, UK. I am currently developing a code called [RT-GSFit](https://github.com/tokamak-energy/rtgsfit) for real-time control in [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
 
 My research interests include:
 * GPU programming, specifically [CUDA Fortran](https://developer.nvidia.com/cuda-fortran).
