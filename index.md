@@ -59,8 +59,13 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alex-prokopyszyn-phd
 
 ## Work/Research experience  <a name="research_experience"></a>
 
+### Culham Centre for Fusion Energy/STFC Rutherford Appleton Laboratory (Secondment), Advanced Computing Specialist
+April 2024 - March 2025
+
+* Contributed fast-particle physics capabilities to the XGC code. A code designed to run on exascale HPC machines. Developed at Princeton Plasma Physics Laboratory and written primarily in C++ using [Kokkos](https://kokkos.org/kokkos-core-wiki/).
+
 ### Culham Centre for Fusion Energy, Fast Particle Modeller
-September 2021 - Present
+September 2021 - March 2024
 
 *	Helping to design a nuclear fusion reactor called [STEP (Spherical Tokamak for Energy Production)](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.), where the goal is to build a Nuclear Reactor which puts clean energy onto the national grid by 2040.
 *	Using and developing a [CUDA-Fortan](https://developer.nvidia.com/cuda-fortran) monte-carlo code called the [Lorentz Orbit Code for Use in Stellerators and Tokamaks (LOCUST)](https://iopscience.iop.org/article/10.1088/1741-4326/ac108c/meta) to model particles in the reactor.
