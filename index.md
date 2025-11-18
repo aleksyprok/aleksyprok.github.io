@@ -14,6 +14,7 @@ title: Home
 **Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for [Tokamak Energy]([https://www.gov.uk/government/organisations/uk-atomic-energy-authority](https://tokamakenergy.com/)) in Oxfordshire, UK. I am currently developing a code called [RT-GSFit](https://github.com/tokamak-energy/rtgsfit) for real-time control in [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
 
 My research interests include:
+* Magnetic equillibrium modelling.
 * GPU programming, specifically [CUDA Fortran](https://developer.nvidia.com/cuda-fortran).
 * Modelling fast ions inside tokamaks.
 * Estimating heat loads on tokamak walls using [kernel density estimates](https://en.wikipedia.org/wiki/Kernel_density_estimation) and other advanced statistical techniques.
