@@ -15,7 +15,7 @@ title: Home
 
 My research interests include:
 * Tokamak magnetic equillibria.
-* GPU programming, specifically [CUDA Fortran](https://developer.nvidia.com/cuda-fortran).
+* GPU programming.
 * Modelling fast ions inside tokamaks.
 * Estimating heat loads on tokamak walls using [kernel density estimates](https://en.wikipedia.org/wiki/Kernel_density_estimation) and other advanced statistical techniques.
 * Extrapolating the Sun's magnetic field based on [magnetograms](https://en.wikipedia.org/wiki/Magnetogram).
