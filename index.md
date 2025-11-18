@@ -59,6 +59,11 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alex-prokopyszyn-phd
 
 ## Work/Research experience  <a name="research_experience"></a>
 
+### Tokamak Energy, Plasma Physiscist - Equilibrium, Magnetics and MHD
+April 2025 - Present
+
+* Developing [RT-GSFit](https://github.com/tokamak-energy/rtgsfit), a code which solves the [Grad-Shafranov](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation) equation in-real time for [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
+
 ### UK Atomic Energy Authority/STFC Rutherford Appleton Laboratory (Secondment), Advanced Computing Specialist
 April 2024 - March 2025
 
