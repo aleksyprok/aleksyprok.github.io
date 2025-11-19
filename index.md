@@ -62,12 +62,12 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alex-prokopyszyn-phd
 ### Tokamak Energy, Plasma Physiscist - Equilibrium, Magnetics and MHD
 April 2025 - Present
 
-* Developing [RT-GSFit](https://github.com/tokamak-energy/rtgsfit), a code which solves the [Grad-Shafranov](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation) equation in-real time for [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
+Developing [RT-GSFit](https://github.com/tokamak-energy/rtgsfit), a code which solves the [Grad-Shafranov](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation) equation in-real time for [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
 
 ### UK Atomic Energy Authority/STFC Rutherford Appleton Laboratory (Secondment), Advanced Computing Specialist
 April 2024 - March 2025
 
-* Contributed fast-particle physics capabilities to the XGC code. A code designed to run on exascale HPC machines. Developed at the Princeton Plasma Physics Laboratory and written primarily in C++ using [Kokkos](https://kokkos.org/kokkos-core-wiki/).
+Contributed fast-particle physics capabilities in the XGC code, a state-of-the-art gyrokinetic particle-in-cell simulation for exascale HPC architectures. XGC is developed at the Princeton Plasma Physics Laboratory and is primarily written in modern C++ with [Kokkos](https://kokkos.org/kokkos-core-wiki/) for performance portability. This work involved close collaboration with the XGC team and significantly deepened my expertise in large-scale fusion plasma simulation.
 
 ### UK Atomic Energy Authority, Fast Particle Modeller
 September 2021 - March 2024
