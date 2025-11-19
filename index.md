@@ -89,6 +89,7 @@ My PhD used computer simulations to model MHD waves in the solar corona, working
 
 ## Conferences and seminars <a name="conferences"></a>
 
+* February 12, 2025 - Fusion Computing Workshop, UKAEA Culham Campus, [Contributed Talk - XGC for Fusion Turbulence](https://aleksyprok.github.io/images/Fusion_Computing_Workshop_Talk_Feb_2025.pdf)
 * December, 2024 - Fusion Computing Conference, UKAEA Culham Campus, [Poster - Fast Particle Physics in XGC](https://aleksyprok.github.io/images/Fusion_Computing_Conference_Poster_Dec_2024.pdf)
 * September 17, 2024 - Fusion Computing Workshop, Daresbury, [Contributed Talk - XGC for Fusion Turbulence](https://aleksyprok.github.io/images/Fusion_Computing_Workshop_Talk_Sep_2024.pdf)
 * October 20, 2023 - IAEA FEC, London, [Poster - Confinement of Fusion α-Particles and Alfvén
