@@ -89,8 +89,9 @@ My PhD used computer simulations to model MHD waves in the solar corona, working
 
 ## Conferences and seminars <a name="conferences"></a>
 
-* October 20, 2023 - IAEA FEC, London, [presented poster](https://github.com/aleksyprok/aleksyprok.github.io/blob/main/images/IAEA_FEC_poster_2023.pdf)
-* October/November 31-4, 2022 - ISTW, [contributed talk](https://github.com/aleksyprok/aleksyprok.github.io/blob/main/images/ISTW_talk_2022.pdf)
+* October 20, 2023 - IAEA FEC, London, [presented poster - Confinement of Fusion α-Particles and Alfvén
+Eigenmode Stability in STEP](https://github.com/aleksyprok/aleksyprok.github.io/blob/main/images/IAEA_FEC_poster_2023.pdf)
+* October/November 31-4, 2022 - ISTW, [Contributed Talk - STEP's steady-state α-particle losses](https://github.com/aleksyprok/aleksyprok.github.io/blob/main/images/ISTW_talk_2022.pdf) 
 * April 22, 2021 - ESPOS, [virtual seminar](https://espos.stream/2021/04/22/Prokopyszyn/)
 * April 7, 2021 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2021_seminar.pdf)
 * April 20, 2020 - SMTG seminar series, St Andrews, [annual seminar.](https://aleksyprok.github.io/images/smtg_2020_seminar.pdf)
