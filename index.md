@@ -15,8 +15,8 @@ title: Home
 
 My research interests include:
 * Tokamak magnetic equillibria.
-* GPU programming.
-* Modelling fast ions inside tokamaks.
+* GPU programming for HPC.
+* Fast particle physics.
 * Gyrokinetics.
 * Computational MHD.
 * Solar physics.
