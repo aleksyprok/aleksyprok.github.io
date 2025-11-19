@@ -11,7 +11,7 @@ title: Home
 6. [Teaching](#teaching)
 7. [Education](#education)
 
-**Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for [Tokamak Energy]([https://www.gov.uk/government/organisations/uk-atomic-energy-authority](https://tokamakenergy.com/)) in Oxfordshire, UK. I am currently developing a code called [RT-GSFit](https://github.com/tokamak-energy/rtgsfit) for real-time control in [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
+**Hi, I'm Alex. A plasma physicist. I use computer simulations to model plasma inside of [tokamaks](https://en.wikipedia.org/wiki/Tokamak).** I work for [Tokamak Energy](https://tokamakenergy.com/)) in Oxfordshire, UK. I am currently developing a code called [RT-GSFit](https://github.com/tokamak-energy/rtgsfit) for real-time control in [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
 
 My research interests include:
 * Tokamak magnetic equillibria.
