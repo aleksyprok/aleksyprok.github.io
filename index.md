@@ -64,7 +64,7 @@ Developing [RT-GSFit](https://github.com/tokamak-energy/rtgsfit), a code which s
 ### UK Atomic Energy Authority/STFC Rutherford Appleton Laboratory (Secondment), Advanced Computing Specialist
 April 2024 - March 2025
 
-Contributed fast-particle physics capabilities to the XGC code, a state-of-the-art gyrokinetic particle-in-cell simulation for exascale HPC architectures. XGC is developed at the Princeton Plasma Physics Laboratory and is primarily written in modern C++ with [Kokkos](https://kokkos.org/kokkos-core-wiki/). This work involved close collaboration with the amazong XGC team whom I learnt a lot from and significantly deepened my expertise in large-scale fusion plasma simulation.
+Contributed fast-particle physics capabilities to the XGC code, a state-of-the-art gyrokinetic particle-in-cell simulation for exascale HPC architectures. XGC is developed at the Princeton Plasma Physics Laboratory and is primarily written in modern C++ with [Kokkos](https://kokkos.org/kokkos-core-wiki/). This work involved close collaboration with the amazing XGC team whom I learnt a lot from and significantly deepened my expertise in large-scale fusion plasma simulation.
 
 ### UK Atomic Energy Authority, Fast Particle Modeller
 September 2021 - March 2024
