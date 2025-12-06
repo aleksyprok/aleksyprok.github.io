@@ -58,17 +58,20 @@ Here are links to my [LinkedIn](https://www.linkedin.com/in/alex-prokopyszyn-phd
 
 ## Work/Research experience  <a name="research_experience"></a>
 
-### Tokamak Energy, Plasma Physiscist - Equilibrium, Magnetics and MHD
+### Plasma Physiscist - Equilibrium, Magnetics and MHD
+####  Tokamak Energy, Oxfordshire
 April 2025 - Present
 
 Developing [RT-GSFit](https://github.com/tokamak-energy/rtgsfit), a code which solves the [Grad-Shafranov](https://en.wikipedia.org/wiki/Grad%E2%80%93Shafranov_equation) equation in-real time for [ST40](https://iopscience.iop.org/article/10.1088/1741-4326/ad6ba7/meta).
 
-### UK Atomic Energy Authority Secondment to the Hartree Centre, Advanced Computing Specialist
+### Advanced Computing Specialist
+#### UK Atomic Energy Authority Secondment to the Hartree Centre
 April 2024 - March 2025
 
 Contributed fast-particle physics capabilities to the XGC code, a state-of-the-art gyrokinetic particle-in-cell simulation for exascale HPC architectures. XGC is developed at the Princeton Plasma Physics Laboratory and is primarily written in modern C++ with [Kokkos](https://kokkos.org/kokkos-core-wiki/). This work involved close collaboration with the amazing XGC team whom I learnt a lot from and significantly deepened my expertise in large-scale fusion plasma simulation.
 
-### UK Atomic Energy Authority, Fast Particle Modeller
+### Fast Particle Modeller
+#### UK Atomic Energy Authority, Oxfordshire
 September 2021 - March 2024
 
 *	Helping to design a nuclear fusion reactor called [STEP (Spherical Tokamak for Energy Production)](https://ccfe.ukaea.uk/research/step/#:~:text=The%20Spherical%20Tokamak%20for%20Energy%20Production%20%28STEP%29%20is,which%20has%20been%20under%20development%20since%20the%201980s.), where the goal is to build a Nuclear Reactor which puts clean energy onto the national grid by 2040.
@@ -76,12 +79,14 @@ September 2021 - March 2024
 *	Implementing advanced statistical techniques to improve the accuracy of the code. For example, implementing a [KDE (Kernel Density Estimate)](https://en.wikipedia.org/wiki/Multivariate_kernel_density_estimation#:~:text=Kernel%20density%20estimation%20is%20a%20nonparametric%20technique%20for,introduced%20in%20the%20scientific%20literature%20for%20univariate%20da) method with a [leave-one-out cross-validation bandwidth selector](https://en.wikipedia.org/wiki/Cross-validation_(statistics)#Leave-one-out_cross-validation), to estimate the heat load distribution for the fast particles hitting hte walls of the reactor.
 
 
-### University of St Andrews, Research fellow
+### Research fellow
+#### University of St Andrews
 March  2021 – September 2021
 
 I helped develop a Fortran code called [Hexa](https://github.com/aleksyprok/Hexa_apkp) to extrapolate the [solar coronal](https://en.wikipedia.org/wiki/Stellar_corona) magnetic field from [magnetograms](https://en.wikipedia.org/wiki/Solar_magnetogram). I improved the accuracy of the code by allowing it fully utilise more data provided by the magnetograms. I helped improved the efficiency of the code by helping to parallelise it using [MPI](https://en.wikipedia.org/wiki/Message_Passing_Interface).
 
-### University of St Andrews, PhD Mathematics
+### PhD Solar Physics
+#### University of St Andrews
 September 2017 – March 2021 (passed viva 2nd June 2021)
 
 My PhD used computer simulations to model MHD waves in the solar corona, working with Prof Alan Hood, Prof Ineke De Moortel, Dr Andrew Wright and funded by STFC. The areas I worked in were:
